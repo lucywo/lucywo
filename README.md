@@ -1,5 +1,6 @@
 ### Hi there , I'm Lucy 👋
 
+frond-end development student 🌱
 <!--
 **lucywo/lucywo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
